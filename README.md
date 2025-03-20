@@ -4,11 +4,10 @@
 This project builds a machine learning model to detect fraudulent credit card transactions efficiently while minimizing false positives. It includes data preprocessing, feature engineering, handling class imbalance, and training an optimized model.
 
 ## Dataset Information
-The dataset contains anonymized transaction details:
-- **Time**: Seconds elapsed between transactions.
-- **V1 - V28**: PCA-transformed features.
-- **Amount**: Transaction amount (normalized).
-- **Class**: Fraud label (0 = genuine, 1 = fraudulent).
+Dataset
+
+The dataset used for this project was obtained from Kaggle. You can download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset is highly imbalanced, requiring oversampling techniques.
 
