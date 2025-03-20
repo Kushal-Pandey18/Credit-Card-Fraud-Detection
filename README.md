@@ -105,6 +105,6 @@ AUC-ROC Score: 0.969
 
 ## Contact
 **Developer:** Kushal Pandey  
-**Email:** [Your Email Here]  
-**GitHub:** [Your GitHub Link Here]
+**Email:** kushal.pandey850@gmail.com
+**GitHub:** https://github.com/Kushal-Pandey18
 
